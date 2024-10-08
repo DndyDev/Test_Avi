@@ -71,6 +71,7 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-#Others
+#Fonts
+/[Aa]ssets/TextMesh Pro
 /[Aa]ssets/arial_black_SDF.asset
 /[Aa]ssets/arial_black_SDF.asset.meta
