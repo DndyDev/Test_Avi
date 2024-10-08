@@ -23,7 +23,7 @@ public class Button : MonoBehaviour, IPointerClickHandler {
     void Update() {
         if (on) {
             animator.SetBool(anmitorParametr, true);
-            loader.load();
+            loader.Load();
         }
     }
 }
